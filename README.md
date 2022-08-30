@@ -14,5 +14,5 @@ Few things in it actually don't do anything - like charts - which I put in, to s
 One thing I'm pretty sure is unique to Denise versus all other web browsers ( as of Aug 2022) is automatic page refresh feature. This just reloads (refreshes) the page in user defined time frequency - useful if you want to monitor a page for for example price change or something like that...
 
 
-Date of upload to github.
+Date of upload to github 
 30 Aug 2022
