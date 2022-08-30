@@ -11,7 +11,7 @@ It is really simple web browser. It contains only most necessary features to mak
 
 Few things in it actually don't do anything - like charts - which I put in, to see how charts work in javafx in first place.
 
-One thing I'm pretty sure is unique to Denise versus all other web browsers( as of Aug 2022) is automatic page refresh feature. This just reloads (refreshes) the page in user defined time frequency - useful if you want to monitor a page for for example price change or something like that...
+One thing I'm pretty sure is unique to Denise versus all other web browsers ( as of Aug 2022) is automatic page refresh feature. This just reloads (refreshes) the page in user defined time frequency - useful if you want to monitor a page for for example price change or something like that...
 
 
 Date of upload to github.
