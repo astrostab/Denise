@@ -1160,9 +1160,8 @@ public class JavaFXWebBrowser extends Application
     
     private void loadWebAddresses_from_File()
     {    	
-    	//String filename = "C:/Users/artur/EclipseWorkspace/Java FX WebBrowser/randomwebpages.txt";
-    	filename = "./randomwebpages.txt";
-    	//String fileOut = "C:/Users/artur/EclipseWorkspace/Java FX WebBrowser/randomwebpages22.txt";
+    	String filename = "./randomwebpages.txt";
+    	
     	File fileWith_WebAddresses = new File( filename );    	     	
     	
         if (fileWith_WebAddresses.exists() && fileWith_WebAddresses.isFile() )
@@ -1175,9 +1174,8 @@ public class JavaFXWebBrowser extends Application
     
     private void load_Favourites_from_File()
     {    	
-    	//String filename = "C:/Users/artur/EclipseWorkspace/Java FX WebBrowser/favouritewebpages.txt";
-    	filename = "./favouritewebpages.txt";
-    	//String fileOut = "C:/Users/artur/EclipseWorkspace/Java FX WebBrowser/randomwebpages22.txt";
+    	String filename = "./favouritewebpages.txt";
+	
     	File fileWith_Fav_WebAddresses = new File( filename );    	     	
     	
         if (fileWith_Fav_WebAddresses.exists() && fileWith_Fav_WebAddresses.isFile() )
