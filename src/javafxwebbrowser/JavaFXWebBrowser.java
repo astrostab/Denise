@@ -1,3 +1,9 @@
+/**
+ *
+ * @author artur
+ *
+ */
+
 package javafxwebbrowser;
 
 import java.awt.BorderLayout;
@@ -95,10 +101,7 @@ import java.security.SecureRandom;
 
 
 
-/**
- *
- * @author artur
- */
+
 public class JavaFXWebBrowser extends Application 
 {
 	
