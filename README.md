@@ -2,7 +2,7 @@
 Fast and simple web browser based on javafx and WebKit.
 
 
-A project I started working on about end of 2020 (2y ago), just to see if simple web browser can be build reasonably fast using available open source libraries and technologies. 
+A project I started working about end of 2020, just to see if simple web browser can be build reasonably fast using available open source libraries and technologies. 
 It turned out, there is already WebEngine and WebView classes available in JavaFX system that can be used for that purpose. These libraries are based on webkit - which is a web browser engine (https://webkit.org/)
 
 Denise is built on java and javafx.
